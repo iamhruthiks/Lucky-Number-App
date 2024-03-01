@@ -10,8 +10,7 @@ An app, which takes the user name as input and generates a lucky number for him 
 
 ## Technologies/Tools used
 - Java - used as a primary programming language for backend development.
-- Android Studio - IDE
-
+- Android Studio Hedgehog | 2023.1.1 Patch 2
 ## Preview
 
 
