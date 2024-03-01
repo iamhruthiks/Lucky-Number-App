@@ -4,8 +4,8 @@
 An app, which takes the user name as input and generates a lucky number for him and the user can share his lucky number.
 
 ## Features
-- generating a lucky number
-- sharing the lucky number
+- Generating a lucky number
+- Sharing the lucky number
 - Dark mode
 
 ## Technologies/Tools used
