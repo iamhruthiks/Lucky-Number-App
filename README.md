@@ -9,8 +9,8 @@ An app, which takes the user name as input and generates a lucky number for him 
 - Dark mode
 
 ## Technologies/Tools used
-- Java - used as a primary programming language for backend development.
 - Android Studio Hedgehog | 2023.1.1 Patch 2
+- Java - used as a primary programming language for backend development.
 ## Preview
 
 
